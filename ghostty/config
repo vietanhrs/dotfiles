@@ -1,10 +1,11 @@
 font-size = 10
 font-family = "Source Code Pro Medium"
-theme = GruvboxLightHard
+# theme = "Gruvbox Light Hard"
+# theme = "Gruvbox Dark Hard"
+theme = GruvboxDarkHard
 background-opacity = 0.9
 cursor-click-to-move = true
 background-blur = true
-gtk-adwaita = true
 gtk-wide-tabs = true
 window-theme = ghostty
 gtk-custom-css = style.css
