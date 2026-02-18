@@ -1,8 +1,7 @@
 font-size = 10
 font-family = "Source Code Pro Medium"
 # theme = "Gruvbox Light Hard"
-# theme = "Gruvbox Dark Hard"
-theme = GruvboxDarkHard
+theme = "Gruvbox Dark Hard"
 background-opacity = 0.9
 cursor-click-to-move = true
 background-blur = true
