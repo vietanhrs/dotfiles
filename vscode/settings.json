@@ -50,5 +50,8 @@
     "*.css": "css"
   },
   "css.format.enable": false,
-  "workbench.editor.wrapTabs": true
+  "workbench.editor.wrapTabs": true,
+  "claudeCode.preferredLocation": "panel",
+  "workbench.panel.defaultLocation": "right",
+  "chat.disableAIFeatures": true
 }
